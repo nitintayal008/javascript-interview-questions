@@ -599,6 +599,8 @@
 
 3. ### What is the difference between Call, Apply and Bind
 
+
+   In JavaScript, call, apply, and bind are methods that allow you to manipulate the this keyword and pass arguments to functions in different ways
    The difference between Call, Apply and Bind can be explained with below examples,
 
    **Call:** The call() method invokes a function with a given `this` value and arguments provided one by one
